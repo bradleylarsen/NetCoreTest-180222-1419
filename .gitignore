@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Test180222-1419-BL/obj
+/WebApplication1/bin
+/WebApplication1/obj
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+.vs/
+.suo
